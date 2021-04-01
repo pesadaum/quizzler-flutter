@@ -56,7 +56,7 @@ class _QuizPageState extends State<QuizPage> {
             child: FlatButton(
               color: Colors.green,
               child: Text(
-                'Verdadeiro',
+                'True',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 20.0,
@@ -76,7 +76,7 @@ class _QuizPageState extends State<QuizPage> {
             child: FlatButton(
               color: Colors.red,
               child: Text(
-                'Falso',
+                'False',
                 style: TextStyle(
                   fontSize: 20.0,
                   color: Colors.white,
